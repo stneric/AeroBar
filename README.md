@@ -2,7 +2,11 @@
 
 **A minimalist macOS menu bar utility to display your current AeroSpace workspace.**
 
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPONAME?label=latest%20release&style=flat-square)](https://github.com/YOUR_USERNAME/YOUR_REPONAME/releases/latest)
+<p align="center">
+  <img src="./Design/AppIcon256.png" alt="AeroBar App Icon" width="128">
+</p>
+
+[![Latest Release](https://img.shields.io/github/v/release/stneric/aerobar?label=latest%20release&style=flat-square)](https://github.com/stneric/aerobar/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Platform macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)](https://www.apple.com/macos/)
 [![Swift Version](https://img.shields.io/badge/Swift-5-orange?style=flat-square&logo=swift)](https://swift.org)
@@ -19,8 +23,7 @@ AeroBar provides a simple, at-a-glance view of your active [AeroSpace](https://g
 *   [AeroSpace](https://github.com/nikitabobko/AeroSpace) window manager installed and configured.
 
 ## Installation
-
-1.  Go to the [**Releases page**](https://github.com/YOUR_USERNAME/YOUR_REPONAME/releases/latest).
+1.  Go to the [**Releases page**](https://github.com/stneric/AeroBar/releases/tag/AeroBar).
 2.  Download the `AeroBar.app.zip` file from the latest release.
 3.  Unzip the file.
 4.  Drag `AeroBar.app` to your `/Applications` folder.
