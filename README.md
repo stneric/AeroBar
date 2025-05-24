@@ -1,4 +1,7 @@
 # AeroBar
+
+**A minimalist macOS menu bar utility to display your current AeroSpace workspace.**
+
 <p align="center">
   <img src="./Design/AppIcon256.png" alt="AeroBar App Icon" width="128">
 </p>
@@ -8,7 +11,6 @@
 [![Platform macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)](https://www.apple.com/macos/)
 [![Swift Version](https://img.shields.io/badge/Swift-5-orange?style=flat-square&logo=swift)](https://swift.org)
 
-**A minimalist macOS menu bar utility to display your current AeroSpace workspace.**
 ---
 
 AeroBar provides a simple, at-a-glance view of your active [AeroSpace](https://github.com/nikitabobko/AeroSpace) workspace directly in your macOS menu bar. It shows your current space and the total number of spaces like this: `[○○●○○○○]`
