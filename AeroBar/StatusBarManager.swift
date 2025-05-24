@@ -115,14 +115,22 @@ class StatusBarManager: NSObject {
         
         menu.addItem(NSMenuItem(title: "Current: \(lastKnownWorkspace)", action: nil, keyEquivalent: ""))
         menu.addItem(NSMenuItem.separator())
-        menu.addItem(NSMenuItem(title: "Force Refresh", action: #selector(refreshClicked), keyEquivalent: "r"))
+        
+        let refreshItem = NSMenuItem(title: "Force Refresh", action: #selector(refreshClicked), keyEquivalent: "r")
+        refreshItem.target = self
+        menu.addItem(refreshItem)
+        
         menu.addItem(NSMenuItem.separator())
-        menu.addItem(NSMenuItem(title: "Quit", action: #selector(quitClicked), keyEquivalent: "q"))
+        
+        let quitItem = NSMenuItem(title: "Quit", action: #selector(quitClicked), keyEquivalent: "q")
+        quitItem.target = self
+        menu.addItem(quitItem)
         
         statusItem?.menu = menu
         statusItem?.button?.performClick(nil)
         statusItem?.menu = nil
     }
+
     
     @objc private func refreshClicked() {
         print("Manual refresh requested")
