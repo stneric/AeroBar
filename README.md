@@ -3,7 +3,7 @@
 **A minimalist macOS menu bar utility to display your current AeroSpace workspace.**
 
 <p align="center">
-  <img src="./Design/AppIcon256.png" alt="AeroBar App Icon" width="128">
+  <img src="./Design/header.png" alt="AeroBar App Icon" width="1920">
 </p>
 
 [![Latest Release](https://img.shields.io/github/v/release/stneric/aerobar?label=latest%20release&style=flat-square)](https://github.com/stneric/aerobar/releases/latest)
