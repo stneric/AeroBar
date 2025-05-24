@@ -19,8 +19,7 @@ AeroBar provides a simple, at-a-glance view of your active [AeroSpace](https://g
 *   [AeroSpace](https://github.com/nikitabobko/AeroSpace) window manager installed and configured.
 
 ## Installation
-
-1.  Go to the [**Releases page**](https://github.com/YOUR_USERNAME/YOUR_REPONAME/releases/latest).
+1.  Go to the [**Releases page**](https://github.com/stneric/AeroBar/releases/tag/AeroBar).
 2.  Download the `AeroBar.app.zip` file from the latest release.
 3.  Unzip the file.
 4.  Drag `AeroBar.app` to your `/Applications` folder.
