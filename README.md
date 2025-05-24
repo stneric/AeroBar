@@ -2,7 +2,7 @@
 
 **A minimalist macOS menu bar utility to display your current AeroSpace workspace.**
 
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPONAME?label=latest%20release&style=flat-square)](https://github.com/YOUR_USERNAME/YOUR_REPONAME/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/stneric/aerobar?label=latest%20release&style=flat-square)](https://github.com/stneric/aerobar/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Platform macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)](https://www.apple.com/macos/)
 [![Swift Version](https://img.shields.io/badge/Swift-5-orange?style=flat-square&logo=swift)](https://swift.org)
