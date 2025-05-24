@@ -1,1 +1,22 @@
+# macOS
 .DS_Store
+
+# Build products
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+UserInterfaceState.xcuserstate
+
+# swift
+.build/
+.swiftpm/
+*.swiftdoc
+*.swiftmodule
+
+# cocoapods
+Pods/
+
+Carthage/Build/
+._* 
