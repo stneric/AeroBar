@@ -1,7 +1,7 @@
 # AeroBar
-
+<p align="center">
 ![AeroBar App Icon](./Design/AppIcon256.png)
-
+</p>
 
 [![Latest Release](https://img.shields.io/github/v/release/stneric/aerobar?label=latest%20release&style=flat-square)](https://github.com/stneric/aerobar/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
