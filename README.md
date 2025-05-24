@@ -1,6 +1,6 @@
 # AeroBar
 
-![AeroBar App Icon](./Design/AeroBar256.png)
+![AeroBar App Icon](./Design/AppIcon256.png)
 **A minimalist macOS menu bar utility to display your current AeroSpace workspace.**
 
 [![Latest Release](https://img.shields.io/github/v/release/stneric/aerobar?label=latest%20release&style=flat-square)](https://github.com/stneric/aerobar/releases/latest)
